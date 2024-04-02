@@ -21,5 +21,6 @@ public class Main {
         Track.printInfo("String");
         Track.printInfo(3);
         Wheels2 kitchen = new Wheels2(2);
+        int a = 0;
     }
 }
