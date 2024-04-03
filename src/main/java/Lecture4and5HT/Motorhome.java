@@ -1,4 +1,4 @@
-package com.itacademy;
+package Lecture4and5HT;
 
 public class Motorhome {
     private int kitchen = 1;

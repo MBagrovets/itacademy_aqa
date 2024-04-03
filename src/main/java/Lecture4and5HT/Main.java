@@ -1,6 +1,4 @@
-package com.itacademy;
-
-import java.sql.SQLOutput;
+package Lecture4and5HT;
 
 public class Main {
     public static void main(String[] args) {

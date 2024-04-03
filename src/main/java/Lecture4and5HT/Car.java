@@ -1,4 +1,4 @@
-package com.itacademy;
+package Lecture4and5HT;
 
 public class Car extends Transport {
         public Car (int height) {

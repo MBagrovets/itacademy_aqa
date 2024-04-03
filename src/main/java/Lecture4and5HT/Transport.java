@@ -1,4 +1,4 @@
-package com.itacademy;
+package Lecture4and5HT;
 
 public abstract class Transport {
     private String model;

@@ -1,4 +1,4 @@
-package com.itacademy;
+package Lecture4and5HT;
 
 public class Battery {
         private int battery1;

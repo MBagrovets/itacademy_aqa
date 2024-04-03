@@ -1,4 +1,4 @@
-package com.itacademy;
+package Lecture4and5HT;
 
 public class Bus extends Transport {
     public Bus(String model, int height, int weight, int maxSpeed) {
