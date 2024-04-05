@@ -3,7 +3,7 @@ package Lecture6HT.Interfaces;
 public interface Voice {
     public void voice();
 
-    public abstract void smile();
-
-
+    public default void smile(){
+        System.out.println("I'm smiling");
+    }
 }

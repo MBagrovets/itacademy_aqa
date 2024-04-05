@@ -5,5 +5,7 @@ public interface Movement {
     public void run();
     public void jump();
 
-    public abstract void climb();
+    public default void climb(){
+
+    };
 }

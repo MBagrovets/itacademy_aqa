@@ -32,11 +32,6 @@ public class Dog implements Voice, Swimming, Movement{
     }
 
     @Override
-    public void smile() {
-        System.out.println("My smile is funny");
-    }
-
-    @Override
     public void dive() {
         System.out.println("Sometimes I dive");
     }

@@ -19,6 +19,7 @@ public class Main {
         dog.run();
         dog.swimming();
         dog.walk();
+        dog.smile();
         System.out.println();
         fish.dive();
         fish.swimming();

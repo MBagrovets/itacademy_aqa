@@ -3,5 +3,7 @@ package Lecture6HT.Interfaces;
 public interface Swimming {
     public void swimming();
 
-    public abstract void dive();
+    public default void dive(){
+
+    };
 }
