@@ -1,4 +1,4 @@
-package Lecture6HT;
+package Lecture6HT.Polymorphism;
 
 public class Animal {
         public void eat () {

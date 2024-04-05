@@ -1,4 +1,4 @@
-package Lecture6HT;
+package Lecture6HT.Polymorphism;
 
 import Lecture6HT.Polymorphism.Animal;
 import Lecture6HT.Polymorphism.Cat;

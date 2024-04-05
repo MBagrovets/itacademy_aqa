@@ -1,4 +1,6 @@
-package Lecture6HT;
+package Lecture6HT.Polymorphism;
 
-public class Cat extends Animal{
+import Lecture6HT.Polymorphism.Animal;
+
+public class Cat extends Animal {
 }

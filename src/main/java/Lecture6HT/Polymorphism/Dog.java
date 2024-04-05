@@ -1,6 +1,8 @@
-package Lecture6HT;
+package Lecture6HT.Polymorphism;
 
-public class Dog extends Animal{
+import Lecture6HT.Polymorphism.Animal;
+
+public class Dog extends Animal {
     public void bark(){
         System.out.println("Dog is barking");
     }
