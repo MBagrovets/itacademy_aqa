@@ -1,4 +1,4 @@
-package com.itacademy;
+package Lecture4and5HT;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
